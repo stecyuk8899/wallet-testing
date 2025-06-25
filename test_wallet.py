@@ -1,4 +1,5 @@
 import pytest
+from wallet import Wallet
 
 
 @pytest.fixture
